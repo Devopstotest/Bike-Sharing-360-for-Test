@@ -1,5 +1,7 @@
 # BikeSharing360
 
+Thank you for sharing the project for free in Github
+
 During our Connect(); event this year we presented 15 demos in Scott Guthrie’s and Scott Hanselman’s keynotes. If you missed the keynotes, you can watch the recording in [Channel 9](https://channel9.msdn.com/Events/Connect/2016/Keynotes-Scott-Guthrie-and-Scott-Hanselman).
 
 This year, we built the technology stack for a fictional company named BikeSharing360, which allows users to rent bikes from one location to another.
